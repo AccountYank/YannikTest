@@ -31,3 +31,7 @@ l
 <src/cgb/p6/designpattern/prototype1/VolkswagenPassanger.java,6/b/6b8e34dea96d62e656e281a4037e258d29438a8e
 d
 4src/test/java/me/yannik/prototype/PrototypeTest.java,3/2/32f653eabc62f7076626a6e642838e08c372fa83
+e
+5src/cgb/p6/designpattern/adapter/AdapterMainTest.java,c/9/c912f67cdb4e8ad86ec2438c0b6386e729e3a333
+f
+6src/cgb/p6/designpattern/template/OldGolineMethod.java,0/b/0b3a73d989bd641a762c3b9abc87dcf6f6cf2f14

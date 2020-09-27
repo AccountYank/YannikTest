@@ -32,6 +32,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="AdapterMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cgb.p6.designpattern.adapter.AdapterMainTest" />
+      <module name="YannikTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cgb.p6.designpattern.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdapterMainTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600616324711</updated>
       <workItem from="1600616326216" duration="782000" />
+      <workItem from="1601218522536" duration="29000" />
     </task>
     <servers />
   </component>
@@ -54,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
